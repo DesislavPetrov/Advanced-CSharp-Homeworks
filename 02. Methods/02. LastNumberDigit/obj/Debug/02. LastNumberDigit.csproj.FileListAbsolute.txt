@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Methods\02. LastNumberDigit\bin\Debug\_02.LastNumberDigit.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Methods\02. LastNumberDigit\bin\Debug\_02.LastNumberDigit.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Methods\02. LastNumberDigit\bin\Debug\_02.LastNumberDigit.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Methods\02. LastNumberDigit\obj\Debug\_02.LastNumberDigit.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Methods\02. LastNumberDigit\obj\Debug\_02.LastNumberDigit.pdb
