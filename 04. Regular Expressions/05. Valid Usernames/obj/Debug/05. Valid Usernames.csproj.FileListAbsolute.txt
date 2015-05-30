@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Regular Expressions\05. Valid Usernames\bin\Debug\_05.Valid_Usernames.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Regular Expressions\05. Valid Usernames\bin\Debug\_05.Valid_Usernames.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Regular Expressions\05. Valid Usernames\bin\Debug\_05.Valid_Usernames.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Regular Expressions\05. Valid Usernames\obj\Debug\_05.Valid_Usernames.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Regular Expressions\05. Valid Usernames\obj\Debug\_05.Valid_Usernames.pdb

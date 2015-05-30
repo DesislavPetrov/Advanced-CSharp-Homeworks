@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\09. Terrorists Win\bin\Debug\_09.Terrorists_Win.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\09. Terrorists Win\bin\Debug\_09.Terrorists_Win.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\09. Terrorists Win\bin\Debug\_09.Terrorists_Win.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\09. Terrorists Win\obj\Debug\_09.Terrorists_Win.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\09. Terrorists Win\obj\Debug\_09.Terrorists_Win.pdb

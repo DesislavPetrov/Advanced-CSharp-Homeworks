@@ -1,0 +1,7 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\03. StudentsByFirstAndLastName\bin\Debug\_03.StudentsByFirstAndLastName.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\03. StudentsByFirstAndLastName\bin\Debug\_03.StudentsByFirstAndLastName.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\03. StudentsByFirstAndLastName\bin\Debug\_03.StudentsByFirstAndLastName.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\03. StudentsByFirstAndLastName\bin\Debug\_01.Class_Student.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\03. StudentsByFirstAndLastName\bin\Debug\_01.Class_Student.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\03. StudentsByFirstAndLastName\obj\Debug\_03.StudentsByFirstAndLastName.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\03. StudentsByFirstAndLastName\obj\Debug\_03.StudentsByFirstAndLastName.pdb

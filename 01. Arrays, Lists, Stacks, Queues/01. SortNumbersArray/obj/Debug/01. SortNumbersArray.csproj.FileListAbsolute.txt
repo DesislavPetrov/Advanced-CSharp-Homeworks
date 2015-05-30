@@ -1,0 +1,7 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\01. Arrays, Lists, Stacks, Queues\01. SortNumbersArray\bin\Debug\_01.SortNumbersArray.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\01. SortNumbersArray\bin\Debug\_01.SortNumbersArray.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\01. SortNumbersArray\bin\Debug\_01.SortNumbersArray.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\01. SortNumbersArray\bin\Debug\_01.SortNumbersArray.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\01. SortNumbersArray\obj\Debug\01. SortNumbersArray.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\01. SortNumbersArray\obj\Debug\_01.SortNumbersArray.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\01. SortNumbersArray\obj\Debug\_01.SortNumbersArray.pdb

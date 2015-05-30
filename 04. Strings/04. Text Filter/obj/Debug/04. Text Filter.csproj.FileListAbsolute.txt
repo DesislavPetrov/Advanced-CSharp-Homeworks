@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Strings\04. Text Filter\bin\Debug\_04.Text_Filter.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Strings\04. Text Filter\bin\Debug\_04.Text_Filter.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Strings\04. Text Filter\bin\Debug\_04.Text_Filter.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Strings\04. Text Filter\obj\Debug\_04.Text_Filter.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Strings\04. Text Filter\obj\Debug\_04.Text_Filter.pdb

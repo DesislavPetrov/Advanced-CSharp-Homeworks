@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Regular Expressions\06. Extract Hyperlinks\bin\Debug\_06.Extract_Hyperlinks.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Regular Expressions\06. Extract Hyperlinks\bin\Debug\_06.Extract_Hyperlinks.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Regular Expressions\06. Extract Hyperlinks\bin\Debug\_06.Extract_Hyperlinks.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Regular Expressions\06. Extract Hyperlinks\obj\Debug\_06.Extract_Hyperlinks.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Regular Expressions\06. Extract Hyperlinks\obj\Debug\_06.Extract_Hyperlinks.pdb

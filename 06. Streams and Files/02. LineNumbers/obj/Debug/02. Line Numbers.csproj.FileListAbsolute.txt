@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\02. LineNumbers\bin\Debug\_02.LineNumbers.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\02. LineNumbers\bin\Debug\_02.LineNumbers.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\02. LineNumbers\bin\Debug\_02.LineNumbers.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\02. LineNumbers\obj\Debug\_02.LineNumbers.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\02. LineNumbers\obj\Debug\_02.LineNumbers.pdb

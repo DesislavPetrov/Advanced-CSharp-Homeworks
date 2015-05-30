@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\17. Office Stuff\bin\Debug\_17.Office_Stuff.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\17. Office Stuff\bin\Debug\_17.Office_Stuff.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\17. Office Stuff\bin\Debug\_17.Office_Stuff.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\17. Office Stuff\obj\Debug\_17.Office_Stuff.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\17. Office Stuff\obj\Debug\_17.Office_Stuff.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\17. Office Stuff\obj\Debug\17. Office Stuff.csprojResolveAssemblyReference.cache

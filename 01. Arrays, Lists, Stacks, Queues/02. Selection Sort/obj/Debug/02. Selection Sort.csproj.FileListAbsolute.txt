@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\02. Selection Sort\bin\Debug\_02.Selection_Sort.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\02. Selection Sort\bin\Debug\_02.Selection_Sort.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\02. Selection Sort\bin\Debug\_02.Selection_Sort.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\02. Selection Sort\obj\Debug\_02.Selection_Sort.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\02. Selection Sort\obj\Debug\_02.Selection_Sort.pdb

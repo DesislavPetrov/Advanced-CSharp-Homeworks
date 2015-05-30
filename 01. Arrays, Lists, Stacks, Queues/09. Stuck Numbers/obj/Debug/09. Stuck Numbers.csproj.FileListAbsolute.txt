@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\09. Stuck Numbers\bin\Debug\_09.Stuck_Numbers.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\09. Stuck Numbers\bin\Debug\_09.Stuck_Numbers.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\09. Stuck Numbers\bin\Debug\_09.Stuck_Numbers.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\09. Stuck Numbers\obj\Debug\_09.Stuck_Numbers.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\09. Stuck Numbers\obj\Debug\_09.Stuck_Numbers.pdb

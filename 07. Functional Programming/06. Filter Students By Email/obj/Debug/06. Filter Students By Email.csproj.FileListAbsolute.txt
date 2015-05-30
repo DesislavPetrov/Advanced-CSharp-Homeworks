@@ -1,0 +1,8 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\06. Filter Students By Email\bin\Debug\_06.Filter_Students_By_Email.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\06. Filter Students By Email\bin\Debug\_06.Filter_Students_By_Email.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\06. Filter Students By Email\bin\Debug\_06.Filter_Students_By_Email.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\06. Filter Students By Email\bin\Debug\_01.Class_Student.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\06. Filter Students By Email\bin\Debug\_01.Class_Student.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\06. Filter Students By Email\obj\Debug\06. Filter Students By Email.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\06. Filter Students By Email\obj\Debug\_06.Filter_Students_By_Email.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\06. Filter Students By Email\obj\Debug\_06.Filter_Students_By_Email.pdb

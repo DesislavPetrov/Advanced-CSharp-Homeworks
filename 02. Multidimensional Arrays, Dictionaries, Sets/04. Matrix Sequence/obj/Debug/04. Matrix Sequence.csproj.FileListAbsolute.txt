@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\04. Matrix Sequence\bin\Debug\_04.Matrix_Sequence.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\04. Matrix Sequence\bin\Debug\_04.Matrix_Sequence.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\04. Matrix Sequence\bin\Debug\_04.Matrix_Sequence.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\04. Matrix Sequence\obj\Debug\04. Matrix Sequence.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\04. Matrix Sequence\obj\Debug\_04.Matrix_Sequence.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\04. Matrix Sequence\obj\Debug\_04.Matrix_Sequence.pdb

@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\03. Word Count\bin\Debug\_03.Word_Count.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\03. Word Count\bin\Debug\_03.Word_Count.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\03. Word Count\bin\Debug\_03.Word_Count.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\03. Word Count\obj\Debug\03. Word Count.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\03. Word Count\obj\Debug\_03.Word_Count.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\03. Word Count\obj\Debug\_03.Word_Count.pdb

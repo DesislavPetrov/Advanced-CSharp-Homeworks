@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Regular Expressions\01. Series Letters\bin\Debug\_01.Series_Letters.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Regular Expressions\01. Series Letters\bin\Debug\_01.Series_Letters.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Regular Expressions\01. Series Letters\bin\Debug\_01.Series_Letters.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Regular Expressions\01. Series Letters\obj\Debug\_01.Series_Letters.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Regular Expressions\01. Series Letters\obj\Debug\_01.Series_Letters.pdb

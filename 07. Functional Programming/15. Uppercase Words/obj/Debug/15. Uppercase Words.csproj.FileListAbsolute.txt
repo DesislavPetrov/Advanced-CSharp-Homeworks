@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\15. Uppercase Words\bin\Debug\_15.Uppercase_Words.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\15. Uppercase Words\obj\Debug\15. Uppercase Words.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\15. Uppercase Words\bin\Debug\_15.Uppercase_Words.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\15. Uppercase Words\bin\Debug\_15.Uppercase_Words.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\15. Uppercase Words\obj\Debug\_15.Uppercase_Words.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\15. Uppercase Words\obj\Debug\_15.Uppercase_Words.pdb

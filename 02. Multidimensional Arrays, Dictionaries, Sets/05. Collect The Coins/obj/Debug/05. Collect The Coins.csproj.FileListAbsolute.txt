@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\05. Collect The Coins\bin\Debug\_05.Collect_The_Coins.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\05. Collect The Coins\bin\Debug\_05.Collect_The_Coins.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\05. Collect The Coins\bin\Debug\_05.Collect_The_Coins.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\05. Collect The Coins\obj\Debug\_05.Collect_The_Coins.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\05. Collect The Coins\obj\Debug\_05.Collect_The_Coins.pdb

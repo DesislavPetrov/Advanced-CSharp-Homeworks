@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\08. Night Life\bin\Debug\_08.Night_Life.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\08. Night Life\bin\Debug\_08.Night_Life.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\08. Night Life\bin\Debug\_08.Night_Life.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\08. Night Life\obj\Debug\08. Night Life.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\08. Night Life\obj\Debug\_08.Night_Life.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\08. Night Life\obj\Debug\_08.Night_Life.pdb

@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Regular Expressions\08. Use Your Chains Buddy\bin\Debug\_08.Use_Your_Chains_Buddy.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Regular Expressions\08. Use Your Chains Buddy\bin\Debug\_08.Use_Your_Chains_Buddy.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Regular Expressions\08. Use Your Chains Buddy\bin\Debug\_08.Use_Your_Chains_Buddy.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Regular Expressions\08. Use Your Chains Buddy\obj\Debug\08. Use Your Chains Buddy.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Regular Expressions\08. Use Your Chains Buddy\obj\Debug\_08.Use_Your_Chains_Buddy.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Regular Expressions\08. Use Your Chains Buddy\obj\Debug\_08.Use_Your_Chains_Buddy.pdb

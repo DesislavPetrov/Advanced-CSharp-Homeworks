@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\14. Text Gravity\bin\Debug\_14.Text_Gravity.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\14. Text Gravity\bin\Debug\_14.Text_Gravity.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\14. Text Gravity\bin\Debug\_14.Text_Gravity.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\14. Text Gravity\obj\Debug\_14.Text_Gravity.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\14. Text Gravity\obj\Debug\_14.Text_Gravity.pdb

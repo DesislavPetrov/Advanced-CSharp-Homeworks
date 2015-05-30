@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\03. Categorize Numbers\bin\Debug\_03.Categorize_Numbers.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\03. Categorize Numbers\bin\Debug\_03.Categorize_Numbers.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\03. Categorize Numbers\bin\Debug\_03.Categorize_Numbers.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\03. Categorize Numbers\obj\Debug\_03.Categorize_Numbers.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\03. Categorize Numbers\obj\Debug\_03.Categorize_Numbers.pdb

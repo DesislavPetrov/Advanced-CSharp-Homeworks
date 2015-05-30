@@ -1,0 +1,8 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\02. Students By Group\bin\Debug\_02.Students_By_Group.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\02. Students By Group\bin\Debug\_02.Students_By_Group.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\02. Students By Group\bin\Debug\_02.Students_By_Group.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\02. Students By Group\bin\Debug\_01.Class_Student.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\02. Students By Group\bin\Debug\_01.Class_Student.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\02. Students By Group\obj\Debug\02. Students By Group.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\02. Students By Group\obj\Debug\_02.Students_By_Group.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\02. Students By Group\obj\Debug\_02.Students_By_Group.pdb

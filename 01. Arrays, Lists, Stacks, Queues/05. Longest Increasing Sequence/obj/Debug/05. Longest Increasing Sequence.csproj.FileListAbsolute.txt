@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\05. Longest Increasing Sequence\bin\Debug\_05.Longest_Increasing_Sequence.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\05. Longest Increasing Sequence\bin\Debug\_05.Longest_Increasing_Sequence.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\05. Longest Increasing Sequence\bin\Debug\_05.Longest_Increasing_Sequence.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\05. Longest Increasing Sequence\obj\Debug\_05.Longest_Increasing_Sequence.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\05. Longest Increasing Sequence\obj\Debug\_05.Longest_Increasing_Sequence.pdb

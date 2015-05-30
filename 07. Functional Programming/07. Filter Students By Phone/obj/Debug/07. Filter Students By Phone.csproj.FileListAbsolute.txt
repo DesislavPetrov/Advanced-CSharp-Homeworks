@@ -1,0 +1,8 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\07. Filter Students By Phone\bin\Debug\_07.Filter_Students_By_Phone.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\07. Filter Students By Phone\bin\Debug\_07.Filter_Students_By_Phone.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\07. Filter Students By Phone\bin\Debug\_07.Filter_Students_By_Phone.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\07. Filter Students By Phone\bin\Debug\_01.Class_Student.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\07. Filter Students By Phone\bin\Debug\_01.Class_Student.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\07. Filter Students By Phone\obj\Debug\07. Filter Students By Phone.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\07. Filter Students By Phone\obj\Debug\_07.Filter_Students_By_Phone.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\07. Filter Students By Phone\obj\Debug\_07.Filter_Students_By_Phone.pdb

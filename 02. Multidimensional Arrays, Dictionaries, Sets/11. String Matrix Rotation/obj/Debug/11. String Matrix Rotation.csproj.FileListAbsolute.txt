@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\11. String Matrix Rotation\bin\Debug\_11.String_Matrix_Rotation.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\11. String Matrix Rotation\bin\Debug\_11.String_Matrix_Rotation.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\11. String Matrix Rotation\bin\Debug\_11.String_Matrix_Rotation.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\11. String Matrix Rotation\obj\Debug\_11.String_Matrix_Rotation.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\11. String Matrix Rotation\obj\Debug\_11.String_Matrix_Rotation.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\11. String Matrix Rotation\obj\Debug\11. String Matrix Rotation.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\10. Pythagorean Numbers\bin\Debug\_10.Pythagorean_Numbers.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\10. Pythagorean Numbers\bin\Debug\_10.Pythagorean_Numbers.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\10. Pythagorean Numbers\bin\Debug\_10.Pythagorean_Numbers.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\10. Pythagorean Numbers\obj\Debug\_10.Pythagorean_Numbers.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\10. Pythagorean Numbers\obj\Debug\_10.Pythagorean_Numbers.pdb

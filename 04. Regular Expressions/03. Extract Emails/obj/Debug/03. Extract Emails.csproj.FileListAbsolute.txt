@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Regular Expressions\03. Extract Emails\bin\Debug\_03.Extract_Emails.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Regular Expressions\03. Extract Emails\bin\Debug\_03.Extract_Emails.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Regular Expressions\03. Extract Emails\bin\Debug\_03.Extract_Emails.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Regular Expressions\03. Extract Emails\obj\Debug\_03.Extract_Emails.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Regular Expressions\03. Extract Emails\obj\Debug\_03.Extract_Emails.pdb

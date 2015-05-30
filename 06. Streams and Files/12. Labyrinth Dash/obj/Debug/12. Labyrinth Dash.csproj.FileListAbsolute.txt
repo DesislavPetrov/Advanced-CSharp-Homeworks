@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\12. Labyrinth Dash\bin\Debug\_12.Labyrinth_Dash.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\12. Labyrinth Dash\obj\Debug\12. Labyrinth Dash.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\12. Labyrinth Dash\bin\Debug\_12.Labyrinth_Dash.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\12. Labyrinth Dash\bin\Debug\_12.Labyrinth_Dash.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\12. Labyrinth Dash\obj\Debug\_12.Labyrinth_Dash.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\12. Labyrinth Dash\obj\Debug\_12.Labyrinth_Dash.pdb

@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\08. Full Directory Traversal\bin\Debug\_08.Full_Directory_Traversal.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\08. Full Directory Traversal\bin\Debug\_08.Full_Directory_Traversal.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\08. Full Directory Traversal\bin\Debug\_08.Full_Directory_Traversal.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\08. Full Directory Traversal\obj\Debug\08. Full Directory Traversal.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\08. Full Directory Traversal\obj\Debug\_08.Full_Directory_Traversal.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\08. Full Directory Traversal\obj\Debug\_08.Full_Directory_Traversal.pdb

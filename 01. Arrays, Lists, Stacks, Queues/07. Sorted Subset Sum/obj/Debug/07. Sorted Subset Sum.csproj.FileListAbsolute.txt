@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\07. Sorted Subset Sum\bin\Debug\_07.Sorted_Subset_Sum.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\07. Sorted Subset Sum\bin\Debug\_07.Sorted_Subset_Sum.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\07. Sorted Subset Sum\bin\Debug\_07.Sorted_Subset_Sum.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\07. Sorted Subset Sum\obj\Debug\_07.Sorted_Subset_Sum.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\07. Sorted Subset Sum\obj\Debug\_07.Sorted_Subset_Sum.pdb

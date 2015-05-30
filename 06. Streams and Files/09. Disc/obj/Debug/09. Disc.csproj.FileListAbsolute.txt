@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\09. Disc\bin\Debug\_09.Disc.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\09. Disc\bin\Debug\_09.Disc.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\09. Disc\bin\Debug\_09.Disc.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\09. Disc\obj\Debug\09. Disc.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\09. Disc\obj\Debug\_09.Disc.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\09. Disc\obj\Debug\_09.Disc.pdb

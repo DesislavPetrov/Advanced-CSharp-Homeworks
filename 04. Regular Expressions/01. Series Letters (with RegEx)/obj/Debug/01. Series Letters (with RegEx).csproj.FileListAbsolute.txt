@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Regular Expressions\01. Series Letters (with RegEx)\bin\Debug\_01.Series_Letters__with_RegEx_.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Regular Expressions\01. Series Letters (with RegEx)\obj\Debug\01. Series Letters (with RegEx).csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Regular Expressions\01. Series Letters (with RegEx)\bin\Debug\_01.Series_Letters__with_RegEx_.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Regular Expressions\01. Series Letters (with RegEx)\bin\Debug\_01.Series_Letters__with_RegEx_.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Regular Expressions\01. Series Letters (with RegEx)\obj\Debug\_01.Series_Letters__with_RegEx_.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\04. Regular Expressions\01. Series Letters (with RegEx)\obj\Debug\_01.Series_Letters__with_RegEx_.pdb

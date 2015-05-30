@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\13. Activity Tracker\bin\Debug\_13.Activity_Tracker.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\13. Activity Tracker\bin\Debug\_13.Activity_Tracker.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\13. Activity Tracker\bin\Debug\_13.Activity_Tracker.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\13. Activity Tracker\obj\Debug\13. Activity Tracker.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\13. Activity Tracker\obj\Debug\_13.Activity_Tracker.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\13. Activity Tracker\obj\Debug\_13.Activity_Tracker.pdb

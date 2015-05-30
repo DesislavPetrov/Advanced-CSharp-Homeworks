@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\04. Copy Binary Files\bin\Debug\_04.Copy_Binary_Files.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\04. Copy Binary Files\bin\Debug\_04.Copy_Binary_Files.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\04. Copy Binary Files\bin\Debug\_04.Copy_Binary_Files.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\04. Copy Binary Files\obj\Debug\_04.Copy_Binary_Files.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\04. Copy Binary Files\obj\Debug\_04.Copy_Binary_Files.pdb

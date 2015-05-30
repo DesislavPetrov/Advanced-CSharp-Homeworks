@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\10. Paint Ball\bin\Debug\_10.Paint_Ball.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\10. Paint Ball\bin\Debug\_10.Paint_Ball.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\10. Paint Ball\bin\Debug\_10.Paint_Ball.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\10. Paint Ball\obj\Debug\_10.Paint_Ball.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\06. Streams and Files\10. Paint Ball\obj\Debug\_10.Paint_Ball.pdb

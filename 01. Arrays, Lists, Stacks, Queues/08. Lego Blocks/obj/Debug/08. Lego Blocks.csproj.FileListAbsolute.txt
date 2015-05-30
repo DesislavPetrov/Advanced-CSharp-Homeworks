@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\08. Lego Blocks\bin\Debug\_08.Lego_Blocks.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\08. Lego Blocks\obj\Debug\08. Lego Blocks.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\08. Lego Blocks\bin\Debug\_08.Lego_Blocks.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\08. Lego Blocks\bin\Debug\_08.Lego_Blocks.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\08. Lego Blocks\obj\Debug\_08.Lego_Blocks.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\08. Lego Blocks\obj\Debug\_08.Lego_Blocks.pdb

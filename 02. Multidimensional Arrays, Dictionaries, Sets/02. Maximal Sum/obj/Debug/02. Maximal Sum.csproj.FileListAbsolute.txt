@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\02. Maximal Sum\bin\Debug\_02.Maximal_Sum.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\02. Maximal Sum\bin\Debug\_02.Maximal_Sum.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\02. Maximal Sum\bin\Debug\_02.Maximal_Sum.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\02. Maximal Sum\obj\Debug\_02.Maximal_Sum.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\02. Maximal Sum\obj\Debug\_02.Maximal_Sum.pdb

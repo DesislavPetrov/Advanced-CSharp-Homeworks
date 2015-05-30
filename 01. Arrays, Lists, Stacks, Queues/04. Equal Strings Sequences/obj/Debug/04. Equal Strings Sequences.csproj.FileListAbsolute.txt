@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\04. Equal Strings Sequences\bin\Debug\_04.Equal_Strings_Sequences.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\04. Equal Strings Sequences\bin\Debug\_04.Equal_Strings_Sequences.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\04. Equal Strings Sequences\bin\Debug\_04.Equal_Strings_Sequences.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\04. Equal Strings Sequences\obj\Debug\_04.Equal_Strings_Sequences.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\04. Equal Strings Sequences\obj\Debug\_04.Equal_Strings_Sequences.pdb

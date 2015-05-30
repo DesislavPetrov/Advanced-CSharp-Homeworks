@@ -1,0 +1,6 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\07. Sorted Subset Sums\bin\Debug\_07.Sorted_Subset_Sums.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\07. Sorted Subset Sums\bin\Debug\_07.Sorted_Subset_Sums.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\07. Sorted Subset Sums\bin\Debug\_07.Sorted_Subset_Sums.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\07. Sorted Subset Sums\obj\Debug\07. Sorted Subset Sums.csprojResolveAssemblyReference.cache
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\07. Sorted Subset Sums\obj\Debug\_07.Sorted_Subset_Sums.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\01. Arrays, Lists, Stacks, Queues\07. Sorted Subset Sums\obj\Debug\_07.Sorted_Subset_Sums.pdb

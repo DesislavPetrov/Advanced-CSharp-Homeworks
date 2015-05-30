@@ -1,0 +1,7 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\05. Sort Students (with Linq)\bin\Debug\_05.Sort_Students__with_Linq_.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\05. Sort Students (with Linq)\bin\Debug\_05.Sort_Students__with_Linq_.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\05. Sort Students (with Linq)\bin\Debug\_05.Sort_Students__with_Linq_.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\05. Sort Students (with Linq)\bin\Debug\_01.Class_Student.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\05. Sort Students (with Linq)\bin\Debug\_01.Class_Student.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\05. Sort Students (with Linq)\obj\Debug\_05.Sort_Students__with_Linq_.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\05. Sort Students (with Linq)\obj\Debug\_05.Sort_Students__with_Linq_.pdb

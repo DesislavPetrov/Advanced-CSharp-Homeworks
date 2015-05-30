@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\03. Matrix Shuffling\bin\Debug\_03.Matrix_Shuffling.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\03. Matrix Shuffling\bin\Debug\_03.Matrix_Shuffling.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\03. Matrix Shuffling\bin\Debug\_03.Matrix_Shuffling.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\03. Matrix Shuffling\obj\Debug\_03.Matrix_Shuffling.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\03. Matrix Shuffling\obj\Debug\_03.Matrix_Shuffling.pdb

@@ -1,0 +1,5 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\06. Count Symbols\bin\Debug\_06.Count_Symbols.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\06. Count Symbols\bin\Debug\_06.Count_Symbols.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\06. Count Symbols\bin\Debug\_06.Count_Symbols.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\06. Count Symbols\obj\Debug\_06.Count_Symbols.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\02. Multidimensional Arrays, Dictionaries, Sets\06. Count Symbols\obj\Debug\_06.Count_Symbols.pdb

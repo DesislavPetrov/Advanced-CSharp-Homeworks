@@ -1,0 +1,7 @@
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\04. StudentsByAge\bin\Debug\_04.StudentsByAge.exe.config
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\04. StudentsByAge\bin\Debug\_04.StudentsByAge.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\04. StudentsByAge\bin\Debug\_04.StudentsByAge.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\04. StudentsByAge\bin\Debug\_01.Class_Student.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\04. StudentsByAge\bin\Debug\_01.Class_Student.pdb
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\04. StudentsByAge\obj\Debug\_04.StudentsByAge.exe
+D:\SkyDrive\SoftUni\Advanced C#\Homeworks\07. Functional Programming\04. StudentsByAge\obj\Debug\_04.StudentsByAge.pdb
